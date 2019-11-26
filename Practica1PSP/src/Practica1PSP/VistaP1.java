@@ -38,6 +38,7 @@ public class VistaP1 extends JFrame {
 		setResizable(false);
 		setLocationRelativeTo(null);
 		setVisible(true);
+		setTitle("Práctica1PSP");
 
 		btNotepad = new JButton("Bloc de Notas");
 		btNotepad.setBounds(9, 11, 145, 48);
